@@ -1,0 +1,6 @@
+# SoulVoice
+git init
+git remote add origin https://github.com/aramkmo/soulvoice.git
+git add .
+git commit -m "Initial upload"
+git push -u origin master
